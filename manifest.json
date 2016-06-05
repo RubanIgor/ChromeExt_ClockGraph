@@ -1,0 +1,11 @@
+﻿{
+    "name": "ClockGraph",
+    "version": "1.00", 
+    "manifest_version": 2, 
+    "description": "ClockGraph",
+    "browser_action": {
+        "default_title" : "It ClockGraph",
+        "default_icon": "icon.png",
+        "default_popup": "ClockGraph.html"
+    }
+}
